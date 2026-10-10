@@ -1,6 +1,3 @@
-from producto import Categoria, ProductoAlimento, Inventario
-
-
 # Creamos una categoría.
 categoria = Categoria("Alimentos")
 
